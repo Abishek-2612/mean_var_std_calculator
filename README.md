@@ -1,1 +1,1 @@
-# mean_var_std_calculator
+# Objective: Practice NumPy for basic stats in data analysis.
