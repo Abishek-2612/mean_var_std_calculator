@@ -5,6 +5,7 @@
 [![freeCodeCamp](https://img.shields.io/badge/freecodecamp-Data%20Analysis%20with%20Python-blue.svg?style=flat-square)](https://www.freecodecamp.org/learn/data-analysis-with-python/)
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg?style=flat-square)](https://www.python.org/)
 [![NumPy](https://img.shields.io/badge/numpy-1.2%2B-orange.svg?style=flat-square)](https://numpy.org/)
+[![Open In Colab]https://colab.research.google.com/drive/1xmOFjnKy6IleyK8F2Jz5mu4PCNIpjbra?usp=sharing
 
 ## Project Overview
 This project is part of the freeCodeCamp **Data Analysis with Python** certification.
