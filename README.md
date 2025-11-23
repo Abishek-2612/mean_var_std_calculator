@@ -30,14 +30,6 @@ Run and explore the full project interactively:
 [Open in Google Colab](https://colab.research.google.com/drive/1xmOFjnKy6IleyK8F2Jz5mu4PCNIpjbra?usp=sharing)
 
 
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/abishek2612)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=for-the-badge)](https://github.com/abishek-2612)
-
-**Made with ❤️ by Abishek**  
-Feel free to reach out on LinkedIn!
-
 
 ## Output Example
 ```python
@@ -50,7 +42,16 @@ calculate([0, 1, 2, 3, 4, 5, 6, 7, 8])
   'min': [[0, 1, 2], [0, 3, 6], 0],
   'sum': [[9, 12, 15], [3, 12, 21], 36]
 }
+```
 
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/abishek2612)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=for-the-badge)](https://github.com/abishek-2612)
+
+**Made with ❤️ by Abishek**  
+Feel free to reach out on LinkedIn!
 
 
 
